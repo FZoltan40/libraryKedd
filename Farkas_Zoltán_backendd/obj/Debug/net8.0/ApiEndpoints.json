@@ -1,0 +1,69 @@
+[
+  {
+    "ContainingType": "Farkas_Zolt\u00E1n_backendd.Controllers.AuthorsController",
+    "Method": "NumOfAuthors",
+    "RelativePath": "api/authors/feladat12",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Farkas_Zolt\u00E1n_backendd.Controllers.AuthorsController",
+    "Method": "Get",
+    "RelativePath": "api/authors/feladat9",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Farkas_Zolt\u00E1n_backendd.Controllers.BooksController",
+    "Method": "Get",
+    "RelativePath": "api/books/feladat10",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Farkas_Zolt\u00E1n_backendd.Controllers.BooksController",
+    "Method": "AddNewBook",
+    "RelativePath": "api/books/feladat13",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "book",
+        "Type": "Farkas_Zolt\u00E1n_backendd.Models.Book",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Farkas_Zolt\u00E1n_backendd.Controllers.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "api/categories/feladat11",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
